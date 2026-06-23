@@ -15,4 +15,4 @@ A sleek desktop app for managing Minecraft servers. Browse and install mods & mo
 Grab the latest release from the [Releases](../../releases) page.
 
 ## Discord Server
-Join our Discord Community [Join](dsc.gg/choppedhub) page.
+Join our Discord Community https://dsc.gg/choppedhub
